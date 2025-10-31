@@ -1,0 +1,512 @@
+[
+  {
+    "days": [
+      {
+        "question": "When world Women's Day is Celebrated?",
+        "options": [
+          "March 5",
+          "March 15",
+          "March 8",
+          "April 1"
+        ],
+        "correct": "March 8"
+      },
+      {
+        "question": "When world Environment Day is Celebrated?",
+        "options": [
+          "June 5",
+          "July 5",
+          "January 5",
+          "June 7"
+        ],
+        "correct": "June 5"
+      },
+      {
+        "question": "When world Olympic Day is Celebrated?",
+        "options": [
+          "April 23",
+          "July 23",
+          "June 23",
+          "August 19"
+        ],
+        "correct": "June 23"
+      },
+      {
+        "question": "When world Cancer Day is Celebrated?",
+        "options": [
+          "March 12",
+          "January 4",
+          "February 4",
+          "October 16"
+        ],
+        "correct": "February 4"
+      },
+      {
+        "question": "When world AIDS Day is Celebrated?",
+        "options": [
+          "September 5",
+          "December 1",
+          "November 30",
+          "May 25"
+        ],
+        "correct": "December 1"
+      },
+      {
+        "question": "When world Tourism Day is Celebrated?",
+        "options": [
+          "September 27",
+          "October 15",
+          "August 20",
+          "January 1"
+        ],
+        "correct": "September 27"
+      },
+      {
+        "question": "When world Children Day is Celebrated?",
+        "options": [
+          "March 23",
+          "May 29",
+          "November 20",
+          "April 13"
+        ],
+        "correct": "November 20"
+      },
+      {
+        "question": "When world Human Rights Day is Celebrated?",
+        "options": [
+          "November 15",
+          "October 12",
+          "December 10",
+          "September 16"
+        ],
+        "correct": "December 10"
+      },
+      {
+        "question": "When world population Day is Celebrated?",
+        "options": [
+          "June 11",
+          "May 15",
+          "July 11",
+          "August 27"
+        ],
+        "correct": "July 11"
+      },
+      {
+        "question": "When world Health Day is Celebrated?",
+        "options": [
+          "May 7",
+          "September 21",
+          "December 18",
+          "April 7"
+        ],
+        "correct": "April 7"
+      },
+      {
+        "question": "When world Heart Day is Celebrated?",
+        "options": [
+          "September 29",
+          "November 24",
+          "May 15",
+          "December 28"
+        ],
+        "correct": "September 29"
+      },
+      {
+        "question": "When world Athletic Day is Celebrated?",
+        "options": [
+          "January 22",
+          "March 15",
+          "May 7",
+          "August 13"
+        ],
+        "correct": "May 7"
+      },
+      {
+        "question": "When world Red cross Day is Celebrated?",
+        "options": [
+          "June 8",
+          "September 16",
+          "May 8",
+          "March 19"
+        ],
+        "correct": "May 8"
+      },
+      {
+        "question": "When world Song Day is Celebrated?",
+        "options": [
+          "July 25",
+          "March 16",
+          "June 21",
+          "September 23"
+        ],
+        "correct": "June 21"
+      },
+      {
+        "question": "When world Water Day is Celebrated?",
+        "options": [
+          "March 22",
+          "May 27",
+          "September 15",
+          "November 22"
+        ],
+        "correct": "March 22"
+      },
+      {
+        "question": "When world Unity Day is Celebrated?",
+        "options": [
+          "March 29",
+          "May 23",
+          "August 31",
+          "April 25"
+        ],
+        "correct": "August 31"
+      },
+      {
+        "question": "When world Peace Day is Celebrated?",
+        "options": [
+          "April 7",
+          "September 21",
+          "March 17",
+          "August 8"
+        ],
+        "correct": "September 21"
+      },
+      {
+        "question": "When world Farmer Day is Celebrated?",
+        "options": [
+          "March 15",
+          "May 14",
+          "October 23",
+          "August 17"
+        ],
+        "correct": "May 14"
+      },
+      {
+        "question": "When world Diabetes Day is Celebrated?",
+        "options": [
+          "December 13",
+          "November 14",
+          "September 22",
+          "October 17"
+        ],
+        "correct": "November 14"
+      },
+      {
+        "question": "When world Radio Day is Celebrated?",
+        "options": [
+          "March 15",
+          "February 13",
+          "May 18",
+          "April 7"
+        ],
+        "correct": "February 13"
+      },
+      {
+        "question": "When world Teachers' Day is Celebrated?",
+        "options": [
+          "May 29",
+          "October 5",
+          "August 7",
+          "September 27"
+        ],
+        "correct": "October 5"
+      },
+      {
+        "question": "When world Friendship Day is Celebrated?",
+        "options": [
+          "August 2",
+          "April 17",
+          "July 30",
+          "February 15"
+        ],
+        "correct": "July 30"
+      },
+      {
+        "question": "विश्व सिमसार दिवस कहिले मनाइन्छ?",
+        "options": [
+          "January 27",
+          "February 2",
+          "August 3",
+          "September 29"
+        ],
+        "correct": "February 2"
+      },
+      {
+        "question": "विश्व उपभोक्ता अधिकार दिवस कहिले मनाइन्छ?",
+        "options": [
+          "February 13",
+          "March 15",
+          "April 1",
+          "November 12"
+        ],
+        "correct": "March 15"
+      },
+      {
+        "question": "विश्व खाद्य दिवस कहिले मनाइन्छ?",
+        "options": [
+          "October 17",
+          "October 12",
+          "October 18",
+          "October 16"
+        ],
+        "correct": "October 16"
+      },
+      {
+        "question": "विश्व रङ्गमञ्च दिवस कहिले मनाइन्छ?",
+        "options": [
+          "February 11",
+          "March 27",
+          "May 23",
+          "April 22"
+        ],
+        "correct": "March 27"
+      },
+      {
+        "question": "विश्व सम्पदा दिवस कहिले मनाइन्छ?",
+        "options": [
+          "August 13",
+          "April 27",
+          "April 18",
+          "November 23"
+        ],
+        "correct": "April 18"
+      },
+      {
+        "question": "विश्व दुरसञ्चार दिवस कहिले मनाइन्छ?",
+        "options": [
+          "May 17",
+          "January 23",
+          "September 19",
+          "December 29"
+        ],
+        "correct": "May 17"
+      },
+      {
+        "question": "विश्व मरुभूमिकरण रोकथाम तथा खडेरी दिवस कहिले मनाइन्छ?",
+        "options": [
+          "March 11",
+          "August 18",
+          "October 22",
+          "June 17"
+        ],
+        "correct": "June 17"
+      },
+      {
+        "question": "विश्व खेलकुद पत्रकार दिवस कहिले मनाइन्छ?",
+        "options": [
+          "January 1",
+          "March 3",
+          "July 6",
+          "November 8"
+        ],
+        "correct": "July 6"
+      },
+      {
+        "question": "विश्व आदिवासी दिवस कहिले मनाइन्छ?",
+        "options": [
+          "August 9",
+          "September 9",
+          "February 13",
+          "May 10"
+        ],
+        "correct": "August 9"
+      },
+      {
+        "question": "विश्व सामुद्रिक दिवस कहिले मनाइन्छ?",
+        "options": [],
+        "correct": ""
+      },
+      {
+        "question": "विश्व हुलाक दिवस कहिले मनाइन्छ?",
+        "options": [
+          "April 14",
+          "October 9",
+          "December 6",
+          "June 11"
+        ],
+        "correct": "October 9"
+      },
+      {
+        "question": "विश्व धुम्रपान नियणत्र दिवस कहिले मनाइन्छ?",
+        "options": [
+          "February 13",
+          "December 9",
+          "May 31",
+          "September 11"
+        ],
+        "correct": "May 31"
+      },
+      {
+        "question": "विश्व मानसिक दिवस कहिले मनाइन्छ?",
+        "options": [
+          "February 16",
+          "January 1",
+          "December 31",
+          "October 10"
+        ],
+        "correct": "October 10"
+      },
+      {
+        "question": "विश्व गुणस्तर दिवस कहिले मनाइन्छ?",
+        "options": [
+          "December 24",
+          "October 7",
+          "October 19",
+          "October 14"
+        ],
+        "correct": "October 14"
+      },
+      {
+        "question": "विश्व क्षयरोग दिवस कहिले मनाइन्छ?",
+        "options": [
+          "December 28",
+          "September 19",
+          "January 18",
+          "March 24"
+        ],
+        "correct": "March 24"
+      },
+      {
+        "question": "विश्व गरिबी निवारण दिवस कहिले मनाइन्छ?",
+        "options": [
+          "November 24",
+          "March 17",
+          "October 17",
+          "September 24"
+        ],
+        "correct": "October 17"
+      },
+      {
+        "question": "विश्व पृथ्वी दिवस कहिले मनाइन्छ?",
+        "options": [
+          "March 5",
+          "June 23",
+          "April 22",
+          "September 5"
+        ],
+        "correct": "April 22"
+      },
+      {
+        "question": "विश्व साक्षरता दिवस कहिले मनाइन्छ?",
+        "options": [
+          "January 5",
+          "August 19",
+          "July 23",
+          "September 8"
+        ],
+        "correct": "September 8"
+      },
+      {
+        "question": "विश्व औलो दिवस कहिले मनाइन्छ?",
+        "options": [
+          "May 25",
+          "June 23",
+          "April 25",
+          "October 13"
+        ],
+        "correct": "April 25"
+      },
+      {
+        "question": "विश्व सामाजिक न्याय दिवस कहिले मनाइन्छ?",
+        "options": [
+          "September 18",
+          "February 20",
+          "November 17",
+          "March 25"
+        ],
+        "correct": "February 20"
+      },
+      {
+        "question": "विश्व प्रेस स्वतन्त्रता दिवस कहिले मनाइन्छ?",
+        "options": [
+          "April 25",
+          "May 3",
+          "September 7",
+          "February 9"
+        ],
+        "correct": "May 3"
+      },
+      {
+        "question": "विश्व बचत दिवस कहिले मनाइन्छ?",
+        "options": [
+          "January 17",
+          "March 13",
+          "October 31",
+          "September 23"
+        ],
+        "correct": "October 31"
+      },
+      {
+        "question": "विश्व टेलिभिजन दिवस कहिले मनाइन्छ?",
+        "options": [
+          "November 21",
+          "September 24",
+          "October 18",
+          "August 19"
+        ],
+        "correct": "November 21"
+      },
+      {
+        "question": "विश्व महासागर दिवस कहिले मनाइन्छ?",
+        "options": [
+          "July 14",
+          "June 8",
+          "November 7",
+          "December 17"
+        ],
+        "correct": "June 8"
+      },
+      {
+        "question": "विश्व उच्च रक्तचाप दिवस कहिले मनाइन्छ?",
+        "options": [
+          "January 23",
+          "September 19",
+          "March 17",
+          "August 18"
+        ],
+        "correct": "May 17"
+      },
+      {
+        "question": "When world Asthma Day is Celebrated?",
+        "options": [
+          "On First Tuesday in May",
+          "November 21",
+          "December 14",
+          "October 9",
+          "None of the above"
+        ],
+        "correct": "On First Tuesday in May"
+      },
+      {
+        "question": "विश्व वन्यजन्तु दिवस कहिले मनाइन्छ?",
+        "options": [
+          "April 11",
+          "February 19",
+          "March 3",
+          "September 2"
+        ],
+        "correct": "March 3"
+      },
+      {
+        "question": "When world Braille Day is Celebrated?",
+        "options": [
+          "February 4",
+          "January 4",
+          "April 21",
+          "September 11"
+        ],
+        "correct": "January 4"
+      },
+      {
+        "question": "विश्व शाकाहारी दिवस कहिले मनाइन्छ?",
+        "options": [
+          "November 1",
+          "October 3",
+          "August 2",
+          "January 1"
+        ],
+        "correct": "November 1"
+      }
+    ]
+  }
+]
