@@ -1,6 +1,4 @@
 [
-  {
-    "days": [
       {
         "question": "When world Women's Day is Celebrated?",
         "options": [
@@ -503,5 +501,5 @@
         "correct": "November 1"
       }
     ]
-  }
-]
+  
+
